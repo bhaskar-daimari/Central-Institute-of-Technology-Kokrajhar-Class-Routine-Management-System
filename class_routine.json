@@ -1,0 +1,18 @@
+[
+    {
+        "subject": "ECONOMICS",
+        "time": "10 am - 11 am",
+        "day": "Monday",
+        "room": "228",
+        "instructor": "GCR",
+        "id": 1
+    },
+    {
+        "subject": "SOFTWARE ENGINEERING",
+        "time": "11 am - 12 pm",
+        "day": "Monday",
+        "room": "228",
+        "instructor": "PSB",
+        "id": 2
+    }
+]
